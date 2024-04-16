@@ -1,0 +1,26 @@
+{
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "One Monokai",
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "'Cascadia Code'",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "[snippets]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.fontFamily": "MartianMono Nerd Font",
+  "terminal.integrated.fontSize": 12,
+  "window.zoomLevel": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "terminal.integrated.env.linux": {},
+  "console-ninja.featureSet": "Community",
+  "terminal.integrated.commandsToSkipShell": ["matlab.interrupt"]
+}
